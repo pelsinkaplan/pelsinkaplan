@@ -33,23 +33,23 @@
 
 [<img align="left" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" />][android]
 
-[android]: https://www.linkedin.com/in/pelsinkaplan/
+[android]: https://developer.android.com/
 
 [<img align="left" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />][kotlin]
 
-[kotlin]: https://www.linkedin.com/in/pelsinkaplan/
+[kotlin]: https://kotlinlang.org/
 
 [<img align="left" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
 
-[intellij]: https://www.linkedin.com/in/pelsinkaplan/
+[intellij]: https://www.jetbrains.com/idea/
 
 [<img align="left" width="50" height="50" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />][java]
 
-[java]: https://www.linkedin.com/in/pelsinkaplan/
+[java]: https://www.java.com/tr/
 
 [<img align="left" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][csharp]
 
-[csharp]: https://www.linkedin.com/in/pelsinkaplan/
+[csharp]: https://github.com/pelsinkaplan
 
 <br/>
 <br/>
