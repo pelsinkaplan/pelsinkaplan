@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Pelşin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelsinkaplan)](https://github.com/pelsinkaplan/github-readme-stats)
+[![Pelşin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelsinkaplan&show_icons=true)](https://github.com/pelsinkaplan/github-readme-stats)
 
 <!--
 **pelsinkaplan/pelsinkaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
