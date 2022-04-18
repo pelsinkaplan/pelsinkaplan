@@ -1,4 +1,5 @@
 ## Hi there 👋
+---
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="280" height="170" align="right" alt="guy"/>
 
@@ -9,11 +10,7 @@
 - 👀 I am interested in mobile programming and backend development
 - ⚡ Fun fact: I love to cooking, listening to music and dancing
 
-
-
-
-
-----
+---
 
 ### Connect with me:
 
@@ -54,6 +51,8 @@
 <br/>
 <br/>
 <br/>
+
+---
 
 <h1 align="center">
   
