@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelsinkaplan&layout=compact)](https://github.com/pelsinkaplan/github-readme-stats)
+
 [![Pelşin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelsinkaplan&show_icons=true&theme=dracula)](https://github.com/pelsinkaplan/github-readme-stats)
 
 <!--
