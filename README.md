@@ -6,7 +6,6 @@
 - 🌱 I’m currently improving myself at Android Kotlin, Jetpack Compose and Java Spring
 - 👯 I’m looking to collaborate with other Android developers
 - 👀 I am interested in mobile programming and backend development
-- ⚡ Fun fact: I love to cooking, listening to music and dancing
 
 ---
 
@@ -18,7 +17,7 @@
 
 [<img align="left" width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />][mail]
 
-[mail]: mailto:pelsinkaplann@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+[mail]: mailto:pelsinkaplan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
  
 <br/>
 <br/>
@@ -32,13 +31,7 @@
 
 
 <br/>
-<br/>
-<br/>
 
 ---
 
-<h1 align="center">
-  
-  [![Pelşin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelsinkaplan&show_icons=true&theme=dracula)](https://github.com/pelsinkaplan/github-readme-stats)
-  
-</h1>
+
